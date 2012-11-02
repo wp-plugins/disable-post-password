@@ -7,11 +7,11 @@ Tested up to: 3.4.2
 Stable tag: 1.0
 License: GPLv3
 
-Custom Post Type Selector allows you to select which post types should be included in the main loop of your blog, including custom post types.
+Disable Post Passwords allows you to disable post passwords for specified user types.
 
 == Description ==
 
-Disable Post Passwords allows you to disable post passwords for specified user types.
+Disable Post Passwords allows you to disable post passwords for specified user types. Simply go to the settings of your blog or network and tick or un-tick either specific user roles, or specify all logged in users, you can even disable post passwords for logged out users.
 
 **If you find this plugin useful please [donate to Cancer Research UK], and let me know what think you via [my website].**
 
