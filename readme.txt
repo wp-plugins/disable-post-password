@@ -3,7 +3,7 @@ Contributors: unknowndomain
 Donate link: http://supportus.cancerresearchuk.org/donate/
 Tags: disable, post, passwords, post password, post visibility, multisite, network, visibility
 Requires at least: 3.4.2
-Tested up to: 3.4.2
+Tested up to: 3.5
 Stable tag: 1.0
 License: GPLv3
 
